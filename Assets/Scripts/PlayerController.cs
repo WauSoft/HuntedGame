@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-public enum Direction { Left, Right }
+public enum Direction { Left, Right, Forward, Backward }
 
 public class PlayerController : MonoBehaviour
 {
