@@ -60,7 +60,7 @@ public class PlayerController : MonoBehaviour
             {
                 spriteOritentation = Direction.Left;
                 doneRotating = false;
-                endRot = Quaternion.Euler(new Vector3(0, 180));
+                endRot = Quaternion.Euler(new Vector3(0, -180));
             }
         }
     }
