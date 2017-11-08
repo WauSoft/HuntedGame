@@ -1220,6 +1220,11 @@ Prefab:
       propertyPath: m_Interpolate
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114046473854187658, guid: cac5a1c330e10cc47927b96582d231a3,
+        type: 2}
+      propertyPath: flipSpeed
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cac5a1c330e10cc47927b96582d231a3, type: 2}
   m_IsPrefabParent: 0
